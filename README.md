@@ -33,5 +33,3 @@ Hi there, welcome to Jorge´s GitHub profile 👋 </h1>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 </div>
-<iframe title="peliculas" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=4fd5768a-6f9c-4e7c-84e4-4d6f0d81d708&autoAuth=true&ctid=4c818f79-ab84-4552-9b7c-2fe715b0d0d5&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXNvdXRoLWNlbnRyYWwtdXMtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
-</div>
