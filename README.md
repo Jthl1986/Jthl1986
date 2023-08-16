@@ -11,11 +11,11 @@ Hi there, welcome to Jorge´s GitHub profile 👋 </h1>
 <br>
 :bar_chart: Working at Credicoop Bank as Credit Risk Analyst
  <br>
-:star: Experienced in business analytics
+:star: Specialist in business analytics - 12 years of banking experience
 <br>
-:computer: Studing Data Science at Digital House
+:computer:Data Science graduate at Digital House - EGIDE UBA - Coderhouse - Udemy
 <br>
-:muscle: Getting stronger at SQL and Power BI with CoderHouse and Udemy
+:muscle: Getting stronger at SQL and Power BI 
 <br>
 <br>
 </div>
